@@ -1,12 +1,13 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### NAME HERE
+#### AJAYI JOHN
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 TODO: Add your explanation
+Kaggle rejects negative score values, hence, the negative values was set to zero before submission
 
 ### What was the top ranked model that performed?
-TODO: Add your explanation
+TODO: Add your explanationThe top ranked model that performed is the .... with a score of 
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
