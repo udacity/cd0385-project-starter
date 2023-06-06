@@ -7,11 +7,15 @@ TODO: Add your explanation
 Kaggle rejects negative score values, hence, the negative values was set to zero before submission
 
 ### What was the top ranked model that performed?
-TODO: Add your explanationThe top ranked model that performed is the .... with a score of 
+TODO: Add your explanation
+The top ranked model that performed is the "WeightedEnsemble_L3" with a score of 
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
 TODO: Add your explanation
+The temp and atemp features are almost perfectly skewed, indicating that the temperature range is almost the same all through the week. 
+The causal users, windspeed, registered and count columns are left-skewed. This is an indicator that  do not have particular periods of the day to lend a bike.
+
 
 ### How much better did your model preform after adding additional features and why do you think that is?
 TODO: Add your explanation
